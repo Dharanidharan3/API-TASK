@@ -1,0 +1,39 @@
+body{
+    display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content: center;
+     align-items: flex-start;
+    border: 2px solid black;
+    border-width:thick ;
+ }
+.div1 .card-title {
+  display: flex;
+    padding: 5px;
+    width: 99%;
+    box-sizing: border-box;
+    justify-content: flex-start !important; 
+    text-align: start;
+    margin: auto;
+    position: absolute;  
+    font-size: x-large;
+    overflow: hidden;
+    
+} 
+  .card{
+    display:flex;
+    justify-content: center;
+     margin-top: 90px;
+     margin-left: 30px;
+     width: 280px;
+     height: 298px;
+     overflow: hidden;
+     box-shadow: 5px 10px #888888;
+ }
+ .card-body{
+  justify-content: center;
+      background-color: aqua!important;
+      
+     color: black !important;  
+ } 
+ 
