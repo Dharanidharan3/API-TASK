@@ -1,0 +1,1 @@
+This is a dynamic website project integrates with an API to display data on a webpage. It is built using HTML, CSS, and Bootstrap.Users can access the latest data from the API in a clear and organized manner.
